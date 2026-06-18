@@ -1,8 +1,8 @@
 # Talha Azhar
 
-**Full-Stack Web Developer (MERN)**
+**Full-Stack Web Developer | MERN Stack**
 
-I build responsive, performant web applications using the MERN stack — React on the frontend, Node.js and Express on the backend, and MongoDB for data. I also work with React Native for cross-platform mobile apps.
+I build responsive, performant web applications end to end — from React frontends to Node.js and Express APIs backed by MongoDB. Over the past few years I've delivered a range of production web apps across product teams and client work, including dashboards, authentication systems, multi-step form portals, and real-time monitoring platforms. I also build cross-platform mobile apps with React Native.
 
 - 🌐 Portfolio: [talha50-portfolio.netlify.app](https://talha50-portfolio.netlify.app)
 - 📫 Email: talhaazhar558@gmail.com
@@ -19,22 +19,30 @@ I build responsive, performant web applications using the MERN stack — React o
 
 ---
 
-## Selected Projects
+## What I Do
 
-**OnPoint Security** — [onpointsignup.com](https://onpointsignup.com)
-Web application built with the MERN stack, covering authentication and a user-facing dashboard.
-
-**HappyGrandy** — [happygrandy.com](https://happygrandy.com)
-A web platform enabling seniors to follow guided exercise programs, with caregivers able to monitor progress in real time.
-
-**Somalia eVisa Portal** — [evisa.gov.so](https://evisa.gov.so)
-Government eVisa application portal built with a focus on a clear, reliable user flow.
-
-**TheWorldVisaSystem** — [theworldvisasystem.org](https://theworldvisasystem.org)
-Visa management web application handling structured multi-step forms and data.
+- Build full-stack web applications with the MERN stack, handling both frontend and backend
+- Design and consume REST APIs, and model data in MongoDB
+- Turn designs into responsive, reusable UI components
+- Optimize frontend performance through techniques like code splitting and efficient rendering
+- Work in agile teams — code reviews, version control, and shipping features on schedule
 
 ---
 
-## Currently
+## Featured Projects
 
-Building full-stack web applications and continuing to deepen my work with React and Node.js.
+A few representative projects from my work — these are a sample, not the full list.
+
+**OnPoint Security** — [onpointsignup.com](https://onpointsignup.com)
+MERN web application with user authentication and a dashboard interface.
+
+**HappyGrandy** — [happygrandy.com](https://happygrandy.com)
+MERN platform enabling seniors to follow guided exercise programs, with real-time progress monitoring for caregivers.
+
+**Somalia eVisa Portal** — [evisa.gov.so](https://evisa.gov.so)
+eVisa application portal built on the MERN stack with a focus on a clear, reliable multi-step user flow.
+
+**TheWorldVisaSystem** — [theworldvisasystem.org](https://theworldvisasystem.org)
+MERN visa management application handling structured, multi-step form data.
+
+> Additional projects and client work are available on my [portfolio](https://talha50-portfolio.netlify.app).
