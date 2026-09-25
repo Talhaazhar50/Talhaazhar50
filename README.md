@@ -7,7 +7,7 @@ I build and extend Microsoft Dynamics 365 F&O — X++ customizations, data integ
 
 - 💼 LinkedIn: [linkedin.com/in/talhaazhar00](https://linkedin.com/in/talhaazhar00)
 - 📫 Email: talhaazhar558@gmail.com
-- 📍 Multan, Pakistan · working remotely with teams in Europe, the US, and the UAE
+- 📍 Pakistan · working remotely with teams in Europe, the US, and the UAE
 
 ---
 
@@ -37,7 +37,7 @@ React, React Native, Node.js, Express, MongoDB, Tailwind CSS.
 | D365 F&O Technical Consultant | Zafnamics · Lisbon (remote) | 2026 – present |
 | Data Analyst — Power BI & SQL | M.A.H.Y. Khoory & Co. · Dubai (remote) | 2025 – 2026 |
 | D365 F&O Technical Developer | Dynamics Solutions LLC · New Jersey (remote) | 2024 – 2025 |
-| Web Developer | IGS Software Solutions · Multan | 2022 – 2023 |
+| Web Developer | IGS Software Solutions · Pakistan | 2022 – 2023 |
 | Freelance D365 / Power BI Developer | Fiverr | 2022 – present |
 
 ---
@@ -54,8 +54,3 @@ React, React Native, Node.js, Express, MongoDB, Tailwind CSS.
 - **OnPoint Security** — [onpointsignup.com](https://onpointsignup.com) · web app with user authentication and a dashboard.
 - [call-analysis](https://github.com/Talhaazhar50/call-analysis) — React + Node.js app with authentication.
 
----
-
-## Coming soon
-
-A new portfolio and blog with write-ups on D365 F&O development, integrations, Power BI, Azure, and connecting D365 to AI through MCP.
