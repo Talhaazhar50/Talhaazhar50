@@ -44,9 +44,6 @@ React, React Native, Node.js, Express, MongoDB, Tailwind CSS.
 
 ## Projects
 
-**D365 F&O**
-- [AlphaPak](https://github.com/Talhaazhar50/AlphaPak) — D365 F&O customization model with table and form extensions on product data.
-
 **Web platforms (MERN)**
 - **Somalia eVisa Portal** — [evisa.gov.so](https://evisa.gov.so) · government eVisa application portal with a multi-step application flow.
 - **TheWorldVisaSystem** — [theworldvisasystem.org](https://theworldvisasystem.org) · visa management application handling structured, multi-step form data.
