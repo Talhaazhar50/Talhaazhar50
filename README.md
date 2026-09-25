@@ -1,48 +1,61 @@
 # Talha Azhar
 
-**Full-Stack Web Developer | MERN Stack**
+**Dynamics 365 Finance & Operations Technical Consultant**
+X++ · Integrations · Power BI · Azure
 
-I build responsive, performant web applications end to end — from React frontends to Node.js and Express APIs backed by MongoDB. Over the past few years I've delivered a range of production web apps across product teams and client work, including dashboards, authentication systems, multi-step form portals, and real-time monitoring platforms. I also build cross-platform mobile apps with React Native.
+I build and extend Microsoft Dynamics 365 F&O — X++ customizations, data integrations, and reporting — with a focus on treasury automation. I also build web apps with React and Node.js, which helps when D365 needs to talk to the outside world. Currently growing towards solution architecture on the Microsoft stack.
 
-- 🌐 Portfolio: [talha50-portfolio.netlify.app](https://talha50-portfolio.netlify.app)
-- 📫 Email: talhaazhar558@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/talhaazhar00](https://linkedin.com/in/talhaazhar00)
+- 📫 Email: talhaazhar558@gmail.com
+- 📍 Multan, Pakistan · working remotely with teams in Europe, the US, and the UAE
 
 ---
 
-## Tech Stack
+## What I work on
 
-**Frontend:** React, React Native, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux
-**Backend:** Node.js, Express.js, REST APIs
-**Database:** MongoDB, SQL
-**Tools:** Git, GitHub, Visual Studio Code, Figma
+**Dynamics 365 F&O**
+X++ development with Chain of Command, table / form / class extensions, SSRS reports, LCS builds and deployable packages. Modules: Treasury, Accounts Payable, Accounts Receivable, Inventory.
+
+**Integrations**
+Data Entities, Data Management Framework (DMF), OData, REST APIs, and Azure Logic Apps — automating data exchange between D365 F&O and external systems, including treasury and bank data.
+
+**Reporting**
+Power BI dashboards and semantic models on D365 F&O data, DAX, SQL Server — including converting legacy SSRS reports into interactive Power BI reports for finance teams.
+
+**Azure & DevOps**
+Azure Portal, Azure App Service, Azure DevOps, Git / GitHub.
+
+**Web**
+React, React Native, Node.js, Express, MongoDB, Tailwind CSS.
 
 ---
 
-## What I Do
+## Experience
 
-- Build full-stack web applications with the MERN stack, handling both frontend and backend
-- Design and consume REST APIs, and model data in MongoDB
-- Turn designs into responsive, reusable UI components
-- Optimize frontend performance through techniques like code splitting and efficient rendering
-- Work in agile teams — code reviews, version control, and shipping features on schedule
+| Role | Company | |
+|---|---|---|
+| D365 F&O Technical Consultant | Zafnamics · Lisbon (remote) | 2026 – present |
+| Data Analyst — Power BI & SQL | M.A.H.Y. Khoory & Co. · Dubai (remote) | 2025 – 2026 |
+| D365 F&O Technical Developer | Dynamics Solutions LLC · New Jersey (remote) | 2024 – 2025 |
+| Web Developer | IGS Software Solutions · Multan | 2022 – 2023 |
+| Freelance D365 / Power BI Developer | Fiverr | 2022 – present |
 
 ---
 
-## Featured Projects
+## Projects
 
-A few representative projects from my work — these are a sample, not the full list.
+**D365 F&O**
+- [AlphaPak](https://github.com/Talhaazhar50/AlphaPak) — D365 F&O customization model with table and form extensions on product data.
 
-**OnPoint Security** — [onpointsignup.com](https://onpointsignup.com)
-MERN web application with user authentication and a dashboard interface.
+**Web platforms (MERN)**
+- **Somalia eVisa Portal** — [evisa.gov.so](https://evisa.gov.so) · government eVisa application portal with a multi-step application flow.
+- **TheWorldVisaSystem** — [theworldvisasystem.org](https://theworldvisasystem.org) · visa management application handling structured, multi-step form data.
+- **HappyGrandy** — [happygrandy.com](https://happygrandy.com) · guided exercise platform for seniors with progress monitoring for caregivers.
+- **OnPoint Security** — [onpointsignup.com](https://onpointsignup.com) · web app with user authentication and a dashboard.
+- [call-analysis](https://github.com/Talhaazhar50/call-analysis) — React + Node.js app with authentication.
 
-**HappyGrandy** — [happygrandy.com](https://happygrandy.com)
-MERN platform enabling seniors to follow guided exercise programs, with real-time progress monitoring for caregivers.
+---
 
-**Somalia eVisa Portal** — [evisa.gov.so](https://evisa.gov.so)
-eVisa application portal built on the MERN stack with a focus on a clear, reliable multi-step user flow.
+## Coming soon
 
-**TheWorldVisaSystem** — [theworldvisasystem.org](https://theworldvisasystem.org)
-MERN visa management application handling structured, multi-step form data.
-
-> Additional projects and client work are available on my [portfolio](https://talha50-portfolio.netlify.app).
+A new portfolio and blog with write-ups on D365 F&O development, integrations, Power BI, Azure, and connecting D365 to AI through MCP.
